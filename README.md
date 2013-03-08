@@ -1,4 +1,4 @@
-swas-marketing
+metis-marketing
 ==============
 
-Marketing submodule of swas
+Marketing submodule of metis
